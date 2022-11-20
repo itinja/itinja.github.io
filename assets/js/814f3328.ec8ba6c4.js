@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_with_docusaurus=self.webpackChunkwebsite_with_docusaurus||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4e2d\u56fd\u9a7e\u7167\u6362\u65e5\u672c\u9a7e\u7167\u6307\u5357","permalink":"/blog/drive-licence-switching"}]}')}}]);
